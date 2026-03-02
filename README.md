@@ -22,8 +22,4 @@ This Power BI dashboard analyzes revenue, commission, and settlement metrics for
 - DAX for measures
 - Power Query for data cleaning
 
-## 📷 Dashboard Preview
-[Add screenshot here later]
 
-## 📬 Contact
-[Your Name] - [Your Email]
